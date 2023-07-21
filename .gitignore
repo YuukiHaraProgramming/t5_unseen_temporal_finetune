@@ -1,0 +1,8 @@
+# Dir
+__pycache__/
+
+# File
+*.pyc
+*.pyo
+*.env
+.DS_Store
